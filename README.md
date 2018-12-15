@@ -1,1 +1,1 @@
-# Line Notify with Face Regconitio on Raspberry Pi 3
+# Line Notify with Face Regconition on Raspberry Pi 3
