@@ -31,7 +31,7 @@ def takePhoto():
         call(["fswebcam", "-r", "640x480", "--no-banner", "./piccam.jpg"]) 
     
 def publish():
-    f=open("pic1.jpg", "rb") #3.7kiB in same folder
+    f=open("pic1.jpg", "rb") 
     fileContent = f.read()
     byteArr = bytearray(fileContent)
     client.publish("ping",byteArr,0)
