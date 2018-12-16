@@ -91,9 +91,13 @@ Provider
 ---------------
 
 Nuttakrid Uppatumwipanon
+
 Bachelor's degree in electronics and telecommunication engineering
-king mongkut's university of technology thonburi
+
+King mongkut's university of technology thonburi
+
 Student id 58070502476
 
-project in ENE490 Machine Learning
+
+Project in ENE490 Machine Learning
 
