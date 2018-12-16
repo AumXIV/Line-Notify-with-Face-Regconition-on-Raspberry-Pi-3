@@ -92,7 +92,7 @@ Provider
 
 Nuttakrid Uppatumwipanon
 
-Bachelor's degree in electronics and telecommunication engineering
+Bachelor's degree of electronics and telecommunication engineering
 
 King mongkut's university of technology thonburi
 
