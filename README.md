@@ -3,7 +3,7 @@
 About Project 
 ------------------------------------
 
-- This project is about an online intruder alert system with facial recognition (Face Recognition) on raspberry pi 3
+- This project is about an online intruder alert system with face recognition  on raspberry pi 3
 
 - Inside the system, there is a motion sensor detecting heat from humans or animals. When the sensor detects a human or animal within a range of 1-5 meters (set up), the system automatically records incoming faces.
 
