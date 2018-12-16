@@ -13,7 +13,8 @@ About Project
 
 Overview
 -------------------
-![](Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/overview.PNG)
+
+![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/overview.PNG)
       
 
 
