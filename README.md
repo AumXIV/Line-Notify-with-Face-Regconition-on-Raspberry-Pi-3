@@ -1,6 +1,6 @@
 # Line Notify with Face Regconition on Raspberry Pi 3
 
-###About Project 
+About Project 
 ------------------------------------
 
 - This project is about an online intruder alert system with facial recognition (Face Recognition) on raspberry pi 3
@@ -11,12 +11,12 @@
 
 - When the process is complete, the person who comes to be identified. The system will send a notification message and the processed image to the user's line.
 
-###Overview
+Overview
 -------------------
 
 
 
-###Implementation
+Implementation
 --------------------------------------
 1. Run file **publish.py** in raspberry pi
 
