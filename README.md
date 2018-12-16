@@ -38,3 +38,6 @@ Implementation
 8. The program will take the image from the rasp pi to process it to detect the person's page and identify it as the data we have trained. 
 
 9. When the process is finished,program with create image file is Processed,detected and identified.And send those alerts and pictures to the User via the line.
+
+![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/Send.jpg)![]
+![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/line.jpg)![]
