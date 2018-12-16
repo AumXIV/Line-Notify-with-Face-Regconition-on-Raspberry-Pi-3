@@ -45,7 +45,7 @@ Implementation
 Prepare Dataset 
 --------------------------
 
-1. Take all the image with have trainer's face. Put them in the**input** folder within the same project.
+1. Take all the image with have trainer's face. Put them in the **input** folder within the same project.
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/dataset1.PNG)
 
