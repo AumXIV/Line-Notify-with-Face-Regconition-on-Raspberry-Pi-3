@@ -86,3 +86,14 @@ Line Notify
 4. Copy the token to keep.
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%204%20.PNG)
+
+Provider
+---------------
+
+Nuttakrid Uppatumwipanon
+Bachelor's degree in electronics and telecommunication engineering
+king mongkut's university of technology thonburi
+Student id 58070502476
+
+project in ENE490 Machine Learning
+
