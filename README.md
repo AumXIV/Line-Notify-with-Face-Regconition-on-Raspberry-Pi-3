@@ -53,7 +53,7 @@ Prepare Dataset
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/dataset2.PNG)
 
-3. Extract all the **output** files from the output folder into the **sort_output folder**, divided equally for the Train and Test, and split the files into folders named without the need to rename them.
+3. Extract all the **output** files from the **output** folder into the **sort_output folder**, divided equally for the Train and Test, and split the files into folders named without the need to rename them.
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/datasets3%20.PNG)
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/dataset4.PNG)
