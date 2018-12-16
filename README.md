@@ -63,6 +63,7 @@ Line Notify
 ----------------------
 
 1. Open [https://notify-bot.line.me/en/](https://notify-bot.line.me/en/ "https://notify-bot.line.me/en/") login with our user and password line
+
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%201.PNG)
 
 2. Get token for sending data to the Line by putting Token into the Python program we want to send.
@@ -70,7 +71,8 @@ Line Notify
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%202.PNG)
 
 3. Give name the sender that will show who sent the message and choose whether to send the message to anyone, only us or as a group.
+
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%203.PNG)
 
 4. Copy the token to keep.
-![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%204.PNG)
+![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%204%20.PNG)
