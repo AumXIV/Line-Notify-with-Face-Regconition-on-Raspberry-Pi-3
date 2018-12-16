@@ -23,13 +23,13 @@ Implementation
 --------------------------------------
 1. Run file **publish.py** in raspberry pi
 
-2. When the program is running and connect with **Mqtt Broker** it will print **"CONNACK received with code 0"** , leave the program open
+2. When the program is running and connect with **MQTT Broker** it will print **"CONNACK received with code 0"** , leave the program open
 
 3. Train the datasets in the **Train.py** file prepared on the server.
 
 4. Run the **Subscribe.py** file on your server
 
-5. When the program is connected to MQTT Broker and the Subscribe topic will print **"Connected with result code 0"** and **''Subscribe with QOS (0,)"**. leave the program open.
+5. When the program is connected to **MQTT Broker** and the Subscribe topic will print **"Connected with result code 0"** and **''Subscribe with QOS (0,)"**. leave the program open.
 
 6. When Motion Sensor captures the movement that people have come to. The camera will work. And send image to MQTT Broker
 
