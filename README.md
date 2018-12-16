@@ -29,7 +29,7 @@ Implementation
 
 4. Run the **Subscribe.py** file on your server
 
-5. When the program is connected to MQTT Broker and the Subscribe topic will print**"Connected with result code 0"**and**''Subscribe with QOS (0,)"**. leave the program open.
+5. When the program is connected to MQTT Broker and the Subscribe topic will print **"Connected with result code 0"** and **''Subscribe with QOS (0,)"**. leave the program open.
 
 6. When Motion Sensor captures the movement that people have come to. The camera will work. And send image to MQTT Broker
 
