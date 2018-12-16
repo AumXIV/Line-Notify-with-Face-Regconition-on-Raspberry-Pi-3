@@ -41,3 +41,11 @@ Implementation
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/Send.jpg)
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line.jpg)
+
+###prepare dataset 
+
+1. Take all the image with have trainer's face. Put them in the** input** folder within the same project.
+
+2. Run the **detect_face_datasets.py** file to get only face-specific images in the **output** folder (create a prepared folder).
+
+3. Extract all the **output **files from the output folder into the **sort_output folder**, divided equally for the Train and Test, and split the files into folders named without the need to rename them.
