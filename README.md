@@ -17,7 +17,14 @@ Overview
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/overview.PNG)
       
 
+Hardware List
+------------------
+1. Raspberry Pi 3
+2. Webcam Camera 
+3. Motion Sensor HC-SR501 PIR
 
+how to connect PIR HC-SR501 with Raspberry Pi 3
+![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/hardware.png)
 
 Implementation
 --------------------------------------
