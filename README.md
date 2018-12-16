@@ -66,7 +66,7 @@ Line Notify
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%201.PNG)
 
-2. Get token for sending data to the Line by putting Token into the Python program we want to send.
+2. Get token for sending data to the Line by putting Token into the Python program we want to used for send.
 
 ![](https://github.com/pingnuttakrid/Line-Notify-with-Face-Regconition-on-Raspberry-Pi-3/blob/master/readme/line%202.PNG)
 
